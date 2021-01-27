@@ -1,4 +1,4 @@
-# Aimtrainer
+# Pygame Aimtrainer - Readme
 
 This is a simple 2d aimtrainer I made using Pygame as a way of learning the Pygame library. Refer to my [YouTube video](https://youtu.be/E-lZnliilaY) for gameplay demo. Has the following features:
 
