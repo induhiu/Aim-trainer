@@ -29,8 +29,8 @@ def game():
     r,g,b = 0,0,0
     mousex, mousey = 0,0
     mouseClicked = False
-    total_targets = 10
-    targets_remaining = 10
+    total_targets = 30
+    targets_remaining = 30
     targets_scored = 0
     radius = 13
     x,y = 400,300
